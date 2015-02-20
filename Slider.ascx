@@ -2,7 +2,7 @@
 <%@ Register TagPrefix="dnn" Namespace="DotNetNuke.Web.Client.ClientResourceManagement" Assembly="DotNetNuke.Web.Client" %>
 
 
-<dnn:DnnCssInclude ID="cssorbitslider" runat="server" FilePath="Slider.css" PathNameAlias="SkinPath" />
+<dnn:DnnCssInclude ID="cssorbitslider" runat="server" FilePath="/Portals/_default/Containers/CFEDNNFound5/Slider.css" />
 
 
 <div class="DnnF_slider">
